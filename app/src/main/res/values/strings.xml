@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">一键换底</string>
+    <string-array name="style_array">
+        <item>black</item>
+        <item>red</item>
+        <item>white</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>yellow</item>
+        <item>purple</item>
+    </string-array>
+</resources>
