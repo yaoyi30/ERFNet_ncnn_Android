@@ -1,6 +1,10 @@
 # ERFNet_ncnn_Android
 This is an android app about  **human segmentation and change photo background color**, use ERFNet.
 
+打包好的APK文件在这里:
+链接：https://pan.baidu.com/s/1mlCQdXduj2blxcvy-CdQ5A 
+提取码：a666
+
 # how to build and run
 ## step1
 https://github.com/Tencent/ncnn/releases
@@ -21,10 +25,6 @@ Open this project with Android Studio, build it and enjoy!
 ![xiazai](https://user-images.githubusercontent.com/56180347/174908175-1f0cabc2-9e78-4e63-91b2-2ad280b82059.png)
 
 3.you can also take a photo and separate the human area
-
-打包好的APK文件在这里:
-链接：https://pan.baidu.com/s/1mlCQdXduj2blxcvy-CdQ5A 
-提取码：a666
 
 # Reference
 https://github.com/runrunrun1994/ncnn-android-deeplabv3plus
