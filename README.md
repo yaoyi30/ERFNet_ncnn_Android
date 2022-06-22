@@ -22,6 +22,9 @@ Open this project with Android Studio, build it and enjoy!
 
 3.you can also take a photo and separate the human area
 
+打包好的APK文件在这里:
+链接：https://pan.baidu.com/s/1mlCQdXduj2blxcvy-CdQ5A 
+提取码：a666
 
 # Reference
 https://github.com/runrunrun1994/ncnn-android-deeplabv3plus
